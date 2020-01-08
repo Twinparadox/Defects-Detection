@@ -1,0 +1,10 @@
+# Weight Files
+DefectsClassification/model
+*.hdf5
+
+# Virtual Env
+DefectsClassification/venv
+
+# Etc
+DefectsClassification/.idea
+.vs
